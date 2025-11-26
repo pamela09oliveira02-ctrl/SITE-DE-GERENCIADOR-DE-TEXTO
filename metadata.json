@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Texto Criativo com IA",
+  "description": "Gere textos, músicas ou tweets criativos a partir de uma frase inicial. Este aplicativo usa o poder da API Gemini do Google para continuar e expandir suas ideias.",
+  "requestFramePermissions": []
+}
